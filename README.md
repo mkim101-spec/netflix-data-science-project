@@ -60,4 +60,4 @@ This data science project explores trends in Netflix's movie catalog over time. 
 
 1. Clone the repo or download the notebook:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Netflix-Movie-Trend-Analysis.git
+[   git clone https://github.com/YOUR_USERNAME/Netflix-Movie-Trend-Analysis.git](https://colab.research.google.com/drive/1PA0c-HnQPMYtfwoDM8sjzpsImALcM83a#scrollTo=Gekr0w6XM3Yx)
