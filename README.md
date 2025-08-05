@@ -28,4 +28,4 @@ Feel free to submit pull requests or open issues!
 
 ## License
 
-Specify your preferred license here (MIT, Apache, etc.).
+Specify your preferred license here (MIT, Apache, etc).
